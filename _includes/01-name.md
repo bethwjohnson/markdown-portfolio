@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Elizabeth Johnson
+## Markdown Exercise
+#### August 17, 2020
