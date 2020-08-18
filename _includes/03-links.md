@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![Beth W. Johnson](https://github.com/bethwjohnson)
